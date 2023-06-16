@@ -16,7 +16,7 @@
 
 <!-- SvelteKit Dynamic Header -->
 <svelte:head>
-	<title>Home</title>
+	<title>Home new</title>
 	<meta name="description" content="Home Page" />
 </svelte:head>
 
